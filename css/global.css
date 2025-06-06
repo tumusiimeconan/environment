@@ -1,10 +1,4 @@
-/*
-Template Name: News Times
-File: Layout CSS
-Author: TemplatesOnWeb
-Author URI: https://www.templateonweb.com/
-Licence: <a href="https://www.templateonweb.com/license">Website Template Licence</a>
-*/
+
 
 :root {
 	--gray_dark:#272727;
@@ -15,6 +9,8 @@ Licence: <a href="https://www.templateonweb.com/license">Website Template Licenc
 	--bg_light:#f9efec;
 	--bg_back:#00000075;
 	--bg_dark:#000000de;
+	--themegreen:#006838;
+	
 }
 
 body{
@@ -77,7 +73,7 @@ a:focus{
  border:1px solid var(--border_light);
  }
 .col_orange{
-	color: var(--orange)!important;
+	color: var(--themegreen)!important;
 }
 .bg_orange{
 	background: var(--orange)!important;
